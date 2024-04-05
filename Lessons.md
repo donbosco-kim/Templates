@@ -17,6 +17,8 @@ This is for specifying the person making a commit
 ```shell
 git config user.name "Donbosco Kim"
 git config user.email "bosco.kim@como.gov"
+git config user.name "Donbosco Kim"
+git config user.email "leonbosco2@gmail.com"
 ```
 
 ### Merging & Resolving

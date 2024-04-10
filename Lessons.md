@@ -92,3 +92,16 @@ else throw error message
 
 ### Triple equals vs Double
 - triple equals check for types and what it equals to, double would just check whatever it is equal say a string
+
+### Sessions
+- every users have their own session.
+- sometimes it is limited to authenticated people
+- they almost always store a session id as a cookie that get presented to the server on every request
+
+### Screen Reader
+- look at html ignore css generally
+- not clicking so js would not say or do anything
+- sementic headings
+
+https://penpot.app/
+aria attributes(look into this)
